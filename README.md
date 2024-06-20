@@ -1,5 +1,5 @@
 <h1>Calculator app</h1>
-<h4> Try it out here : https://vishsig.github.io/calculator-app/</h4>
+<h4> Try it out here : https://vishsig.github.io/Calculator-App/</h4>
 <h2>Overview</h2>
 <p>The Calculator App is a simple, user-friendly web application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It is designed to work on any modern web browser without the need for any additional installations.</p>
 
